@@ -1,0 +1,13 @@
+h1{
+    color: red;
+}
+img{
+    border-style: dashed;
+    border-width: 3px;
+}
+div{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
